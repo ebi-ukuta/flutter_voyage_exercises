@@ -1,0 +1,14 @@
+//Find the peremeter of a recteangle using this formular: P=2(l+w), return the result whenever l and w is passed as a peremeter/argument.
+
+double calculateRectanglePerimeter(double l, double w) {
+  return 2 * (l + w);
+}
+
+void main() {
+  double length = 5;
+  double width = 3;
+  
+  double perimeter = calculateRectanglePerimeter(length, width);
+  
+  print('The perimeter of the rectangle with length $length and width $width is $perimeter');
+}

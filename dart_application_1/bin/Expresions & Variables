@@ -1,0 +1,31 @@
+//what is dart entry point?
+
+void main() {
+}
+
+
+//Print "Hello, Voyagers" on the console.
+
+void main() {
+  print('Hello, Voyagers');
+}
+
+//Assign your name to a variable, and print it on the console
+
+void main() {
+  String myName = 'EbiUkuta';
+  print('My name is: $myName');
+}
+
+//Write this on dart code: x is 10, and x is 50
+
+void main() {
+  int x = 10;
+  print('x is $x'); // Output: x is 10
+
+  x = 50;
+  print('x is $x'); // Output: x is 50
+}
+
+
+

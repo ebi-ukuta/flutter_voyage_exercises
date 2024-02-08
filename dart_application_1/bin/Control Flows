@@ -1,0 +1,6 @@
+//Boolean challenge: In each of the following statements, what is the value of the Boolean expression?
+
+true && true = true
+false || false = false
+(true && 1 != 2) || (4 > 3 && 100 < 1) = true
+((10 / 2) > 3) && ((10 % 2) == 0) = true
